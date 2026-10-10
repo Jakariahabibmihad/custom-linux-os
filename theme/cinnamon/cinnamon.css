@@ -1,0 +1,10 @@
+/* Custom Linux OS Futuristic — generated color mood */
+stage { color:#f0f4fc; }
+#panel, .panel-top, .panel-bottom { background-color:rgba(5,6,9,0.97); color:#f0f4fc; border:1px solid rgba(144,168,203,0.42); }
+#panel .panel-button { color:#f0f4fc; border-radius:10px; }
+#panel .panel-button:hover, #panel .panel-button:focus { background-color:rgba(193,213,244,0.22); color:#f0f4fc; }
+#panel .panel-button:active, #panel .panel-button:checked { background-color:rgba(193,213,244,0.32); color:#f0f4fc; }
+.popup-menu, .popup-menu-box, .popup-menu-content { background-color:rgba(5,6,9,0.99); color:#f0f4fc; border:1px solid rgba(144,168,203,0.42); border-radius:14px; }
+.popup-menu-item { color:#f0f4fc; padding:8px 12px; }
+.popup-menu-item:hover, .popup-menu-item:focus { background-color:rgba(193,213,244,0.24); color:#f0f4fc; }
+.notification { background-color:rgba(5,6,9,0.98); color:#f0f4fc; border:1px solid rgba(144,168,203,0.42); border-radius:14px; }

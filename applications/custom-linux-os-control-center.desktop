@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Custom Linux OS Control Center
+GenericName=Desktop Customizer
+Comment=Customize the Custom Linux OS dashboard and desktop theme
+Exec=custom-linux-os-control-center
+Icon=custom-linux-os
+Terminal=false
+Categories=Settings;DesktopSettings;
+StartupNotify=true

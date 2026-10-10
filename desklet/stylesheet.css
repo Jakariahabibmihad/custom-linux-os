@@ -1,0 +1,44 @@
+.ald-root { width:1750px; padding:2px 8px 4px 8px; color:#f0f4fc; font-family:"Noto Sans",sans-serif; }
+.ald-header { width:1750px; height:270px; padding:5px 12px; }
+.ald-header-center { margin-top:55px; }
+.ald-brand { font-size:17px; font-weight:700; color:#f0f4fc; }
+.ald-clock { font-size:56px; font-weight:300; color:#f0f4fc; margin-bottom:4px; }
+.ald-date { font-size:12px; color:#9ea8b9; margin-bottom:10px; }
+.ald-search { min-width:300px; height:34px; border-radius:20px; background-color:rgba(5,6,9,0.24); background-image:linear-gradient(135deg,rgba(193,213,244,0.07),rgba(5,6,9,0.24)); border:1px solid rgba(144,168,203,0.42); padding:5px 14px; color:#f0f4fc; }
+.ald-search-row { spacing:8px; }
+.ald-google-search-entry { min-width:360px; min-height:34px; padding:7px 12px; border-radius:18px; background-color:rgba(5,6,9,0.90); background-image:linear-gradient(135deg,rgba(193,213,244,0.08),rgba(5,6,9,0.86)); border:1px solid rgba(144,168,203,0.42); color:#f0f4fc; caret-color:#c1d5f4; }
+.ald-google-search-entry:focus { border-color:#c1d5f4; }
+.ald-header-action { height:32px; border-radius:16px; background-color:rgba(5,6,9,0.24); border:1px solid rgba(144,168,203,0.42); padding:5px 12px; color:#f0f4fc; font-size:11px; }
+.ald-cols { width:1750px; }
+.ald-col-weather { width:440px; margin-right:14px; }
+.ald-col-ai { width:420px; margin-right:14px; }
+.ald-col-apps { width:330px; margin-right:14px; }
+.ald-col-right { width:390px; }
+.ald-card { background-color:rgba(5,6,9,0.24); background-image:linear-gradient(135deg,rgba(193,213,244,0.10),rgba(5,6,9,0.16) 55%,rgba(193,213,244,0.04)); box-shadow:0 0 9px rgba(193,213,244,0.09); border:1px solid rgba(144,168,203,0.42); border-radius:17px; padding:9px; color:#f0f4fc; margin-bottom:10px; transition-duration:180ms; }
+.ald-col-weather > .ald-card { width:370px; } .ald-col-ai > .ald-card { width:400px; } .ald-col-apps > .ald-card { width:310px; } .ald-col-right > .ald-card { width:350px; }
+.ald-title { font-size:14px; font-weight:700; color:#f0f4fc; margin-bottom:4px; } .ald-muted { font-size:11px; color:#9ea8b9; } .ald-text { font-size:12px; color:#9ea8b9; }
+.ald-big { font-size:27px; font-weight:300; color:#f0f4fc; margin-bottom:4px; }
+.ald-metric { font-size:12px; color:#f0f4fc; padding:3px 2px; margin-right:5px; } .ald-weather { font-size:20px; color:#f0f4fc; padding:4px 0; }
+.ald-row { margin-bottom:6px; } .ald-action { color:#f0f4fc; background-image:linear-gradient(135deg,rgba(193,213,244,0.19),rgba(5,6,9,0.94)); border:1px solid rgba(144,168,203,0.42); border-radius:11px; padding:6px 10px; font-size:11px; margin-right:5px; margin-bottom:5px; }
+.ald-action:hover { background-color:rgba(193,213,244,0.38); color:#fff; }
+.ald-grid { padding-top:6px; } .ald-app { width:74px; height:80px; background-image:linear-gradient(135deg,rgba(193,213,244,0.10),rgba(5,6,9,0.16) 55%,rgba(193,213,244,0.04)); box-shadow:0 0 9px rgba(193,213,244,0.09); border:1px solid rgba(144,168,203,0.42); border-radius:19px; margin-right:5px; margin-bottom:5px; }
+.ald-app:hover { background-image:linear-gradient(135deg,rgba(193,213,244,0.20),rgba(5,6,9,0.96)); border-color:rgba(193,213,244,0.75); transition-duration:180ms; } .ald-app-inner { padding:5px 2px; } .ald-icon { color:#c1d5f4; } .ald-app-label { font-size:10px; color:#f0f4fc; }
+.ald-task { background-color:rgba(5,6,9,0.55); border:1px solid rgba(144,168,203,0.23); border-radius:9px; padding:6px 5px; color:#f0f4fc; font-size:12px; margin-bottom:5px; } .ald-task:hover { background-color:rgba(193,213,244,0.20); }
+.ald-file { font-size:11px; color:#9ea8b9; margin-bottom:5px; }
+.ald-ai-status { color:#c1d5f4; font-size:10px; padding:3px 0; }
+.ald-ai-scroll { background-color:rgba(5,6,9,0.55); background-image:linear-gradient(135deg,rgba(193,213,244,0.10),rgba(5,6,9,0.16) 55%,rgba(193,213,244,0.04)); border:1px solid rgba(144,168,203,0.25); border-radius:13px; padding:8px; min-height:200px; }
+.ald-ai-reply { color:#f0f4fc; font-size:11px; padding:3px; }
+.ald-ai-prompt-row { spacing:5px; padding-top:8px; padding-bottom:5px; }
+.ald-ai-entry { min-height:34px; padding:5px 9px; border-radius:10px; background-color:rgba(5,6,9,0.85); color:#f0f4fc; border:1px solid rgba(144,168,203,0.42); caret-color:#c1d5f4; }
+.ald-footer { width:1750px; height:46px; padding:3px 12px; margin-top:50px; }
+.ald-footer-pill { background-color:rgba(5,6,9,0.24); background-image:linear-gradient(135deg,rgba(193,213,244,0.06),rgba(5,6,9,0.24)); border:1px solid rgba(144,168,203,0.42); border-radius:20px; padding:8px 13px; color:#f0f4fc; font-size:11px; }
+.ald-applet-footer { width:1750px; padding:8px 12px 4px 12px; margin-top:18px; }
+.ald-applet-heading { spacing:8px; padding-bottom:6px; }
+.ald-applet-title { font-size:10px; font-weight:700; color:#9ea8b9; }
+.ald-applet-row { spacing:8px; width:100%; }
+.ald-applet-left { spacing:8px; }
+.ald-applet-right { spacing:8px; }
+.ald-applet-item { spacing:4px; padding:2px; border-radius:17px; background-color:rgba(5,6,9,0.24); border:1px solid rgba(144,168,203,0.29); }
+
+/* High-contrast system-monitor readouts */
+.ald-sensor { font-size:12px; color:#c1d5f4; padding:3px 2px; font-weight:600; }

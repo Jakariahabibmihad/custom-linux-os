@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Custom Linux OS App Drawer
+Comment=Search and launch installed applications
+Exec=custom-linux-os-app-drawer
+Icon=custom-linux-os
+Terminal=false
+Categories=Utility;
+StartupNotify=true
